@@ -1,23 +1,62 @@
 <html>
-
 <head>
-<title>Gio</title>
+<title>Home</title>
 </head>
 
 <body
 background="background.jpg">
 
-<h1><p align="center"><strong>GIO</strong></h1></p>
-<a href="https://m.youtube.com/channel/UCBwHW7zh8vhEbUL6_o6oo4w"target="_blank">
-<div class="yt">
-<img src="t.jpg" alt="image isn't loading"width="175" height="175" />
-<p>click the image above</p>
+<h1><p align="center"><strong>Social Media</strong></h1></p>
+
+<nav>
+  <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="socialmedia.html">Social Media</a></li>
+      <li><a href="about.html">About</a></li>
+</html>
+
+<div class="wrapper">
+          <header>
+           <nav>
+           <div class="menu-icon">
+           <i class="fa afa-bars fa-2x"></i>
+             </div>
+             <div class="logo">
+             LOGO
+             </div>
+             <div class="menu">
+                       <ul>
+                       <li><a href="#">Home</a></li>
+                       <li><a href="#">Social Media</a></li>
+                       <li><a href="#">About</a></li>
+              
+            </ul>
+            </div>
+            </nav>
+            </header>
+            <div class="content">
+            <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
 </div>
-<a href="https://instagram.com/gio_the_escalant"target="_blank">
-<div class="insta">
-<img src="i.jpg" alt="image isn't loading"width="175" height="175" />
-<p>click the image above</p>
 </div>
-</a>
+<script type="text/javascript">
+//Menu toggle-button//
+
+$(document).ready(function() {
+             $(".menu-icon").on("click", function() {
+                          $("nav ul").toggleClass("showing");
+              });
+});
+
+//Scrolling Effect//
+$(window).on("scroll", function() {
+               if($(window).scrolltop()) {
+                          $('nav').addClass('black');
+               }
+               else {
+                          $('nav').removeClass('black');
+                }
+})
+
+</script>
 </body>
 </html>
