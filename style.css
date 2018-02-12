@@ -25,8 +25,8 @@ body {
 }
 
 .nav > li {
-display: inline-block;
-padding: 0 25px 0 25px;
+      display: inline-block;
+      padding: 0 25px 0 25px;
 }
 
 .nav > li > a {
