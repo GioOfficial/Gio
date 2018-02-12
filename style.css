@@ -17,8 +17,8 @@ body {
 }
 
 .nav {
-        background-color: #595959;
-        color: #ffffff;
+        background-color: #000;
+        color: #fff;
         list-style: none;
         text-align: center;
         padding: 20px 0 20px 0;
@@ -31,7 +31,7 @@ body {
 
 .nav > li > a {
         text-decoration: none;
-        color: #ffffff;
+        color: #fff;
 }
 
 .nav > li > a:hover {
