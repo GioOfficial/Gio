@@ -42,10 +42,12 @@ body {
 
 .banner {
  width: 100%;
+ bottom: 50px
  display: block;
 }
 
 .banner > .banner-image {
  width: 100%;
  display: block;
+ bottom: 50px;
 }
