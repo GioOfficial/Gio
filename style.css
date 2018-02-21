@@ -1,14 +1,16 @@
 .yt {
  position: relative;   
   top:0px;
-  left:900px;
+ width: 100%;
+  left: 500px;
  display: block;
 }
 
 .insta {
  position: relative;
-  top:0px;
-  left:500px;
+  top: 0px;
+ width: 100%;
+  left: 900px;
  display: block;
 }
 
