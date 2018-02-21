@@ -12,11 +12,6 @@
  display: block;
 }
 
-.rock {
- position: relative;
- left: 500px
-  top: 10px;
-
 body {
          margin: 0;
          padding: 0;
@@ -58,3 +53,10 @@ body {
  display: block;
  bottom: 50px;
 }
+
+
+.rock {
+ position: relative;
+ left: 500px
+  top: 10px;
+ }
