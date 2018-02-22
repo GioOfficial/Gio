@@ -45,7 +45,7 @@ body {
 
 .banner {
  width: 100%;
- bottom: 60px
+ bottom: 60px;
  display: block;
 }
 
@@ -53,18 +53,6 @@ body {
  width: 100%;
  display: block;
  bottom: 50px;
-}
-
-
-.rock {
- position: relative;
- left: 500px
-  top: 10px;
- }
-
-*{
- margin: 0;
- padding: 0;
 }
 
 .wrapper{
@@ -86,12 +74,12 @@ body {
  text-align: center;
  cursor: pointer;
  border-radius: 50%;
- border: 5px solid #000000;
+ border: 5px solid #fff;
  float: left;
 }
 
 .wrapper ul li .fa{
- color: #000000;
+ color: #fff;
  margin-top: 20px;
 }
 
