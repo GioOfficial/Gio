@@ -74,12 +74,12 @@ body {
  text-align: center;
  cursor: pointer;
  border-radius: 50%;
- border: 5px solid #000000;
+ border: 5px solid #fff;
  float: left;
 }
 
 .wrapper ul li .fa{
- color: #000000;
+ color: #fff;
  margin-top: 20px;
 }
 
