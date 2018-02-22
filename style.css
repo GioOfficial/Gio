@@ -15,7 +15,6 @@
 body {
          margin: 0;
          padding: 0;
-         background: #d3d3d3;
          font-family: "Ariel", serif;
 }
 
@@ -74,12 +73,12 @@ body {
  text-align: center;
  cursor: pointer;
  border-radius: 50%;
- border: 5px solid #fff;
+ border: 5px solid #000000;
  float: left;
 }
 
 .wrapper ul li .fa{
- color: #fff;
+ color: #000000;
  margin-top: 20px;
 }
 
