@@ -85,23 +85,19 @@ body {
 
 .wrapper ul li:hover:nth-child(1){
  border: 5px solid #00aced;
- box-shadow: 0 0 0 #00aced;
  transition: all 0.5s ease;
 }
 
 .wrapper ul li:hover .fa-instagram{
  color: #00aced;
- text-shadow: 0 0 0 #00aced;
  transition: all 0.5s ease;
 }
 
  .wrapper ul li:hover:nth-child(2){
- border: 5px solid #bb0000;
- box-shadow: 0 0 0 #bb0000;
+ border: 5px solid #ff0000;
  transition: all 0.5s ease;
 }
 
 .wrapper ul li:hover .fa-youtube{
- color: #bb0000;
- text-shadow: 0 0 0 #bb0000;
+ color: #ff0000;
  transition: all 0.5s ease;
