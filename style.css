@@ -15,6 +15,7 @@
 body {
          margin: 0;
          padding: 0;
+         background: #d3d3d3;
          font-family: "Ariel", serif;
 }
 
@@ -51,7 +52,7 @@ body {
 .banner > .banner-image {
  width: 100%;
  display: block;
- bottom: 50px;
+ bottom: 60px;
 }
 
 .wrapper{
