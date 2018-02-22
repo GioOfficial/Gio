@@ -57,7 +57,7 @@ body {
 
 .wrapper{
  position: absolute;
- top: 85%;
+ top: 88%;
  left: 50%;
  transform: translate(-50%,-50%);
 }
@@ -101,3 +101,8 @@ body {
 .wrapper ul li:hover .fa-youtube{
  color: #ff0000;
  transition: all 0.5s ease;
+
+ .rock {
+  top: 0;
+   left: 30;
+ }
