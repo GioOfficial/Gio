@@ -52,12 +52,12 @@ body {
 .banner > .banner-image {
  width: 100%;
  display: block;
- bottom: 60px;
+ bottom: 50px;
 }
 
 .wrapper{
  position: absolute;
- top: 50%;
+ top: 70%;
  left: 50%;
  transform: translate(-50%,-50%);
 }
