@@ -105,4 +105,5 @@ body {
  .rock {
   top: 0;
    left: 50%;
+  display: block;
  }
