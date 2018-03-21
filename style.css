@@ -102,3 +102,8 @@ body {
  color: #6441a5;
  transition: all 0.5s ease;
 }
+
+.text{
+         color: #fff;
+         text-align: center;
+}
