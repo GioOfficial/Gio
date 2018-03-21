@@ -98,16 +98,3 @@ body {
  color: #6441a5;
  transition: all 0.5s ease;
 }
-.gallery{
- margin: 10px 50px;
-}
-.gallery img{
- width: 230px;
- padding: 5px;
- filter: grayscale(50%);
- transition: 1s;
-}
-.gallery img:hover{
- filter: grayscale(0);
- transform: scale(1.1);
-}
