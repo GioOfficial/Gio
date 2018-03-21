@@ -1,7 +1,7 @@
 body {
          margin: 0;
          padding: 0;
-         background: #fff000;
+         background: #000;
          font-family: "Ariel", serif;
 }
 .h1{
@@ -39,7 +39,7 @@ body {
 .banner > .banner-image {
  width: 100%;
  display: block;
- bottom: 50px;
+ bottom: 40px;
 }
 
 .wrapper{
