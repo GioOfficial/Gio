@@ -1,11 +1,11 @@
 body {
          margin: 0;
          padding: 0;
-         background: #fff;
+         background: #fff000;
          font-family: "Ariel", serif;
 }
 .h1{
-         color: #ffffff000;
+         color: #fff;
 .nav {
         position: relative;
         top: 0;
