@@ -5,7 +5,10 @@ body {
          font-family: "Ariel", serif;
 }
 .h1{
+         text-align: center;
          color: #fff;
+         margin: 30px 0 50px;
+}
 .nav {
         position: relative;
         top: 0;
