@@ -1,2 +1,2 @@
-# Gio
-These are all the files for my website.
+# GioOfficial
+This is the repository used to host my website.
