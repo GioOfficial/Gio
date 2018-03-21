@@ -4,7 +4,8 @@ body {
          background: #000000;
          font-family: "Ariel", serif;
 }
-
+.h1{
+         color: #ffffff;
 .nav {
         position: relative;
         top: 0;
